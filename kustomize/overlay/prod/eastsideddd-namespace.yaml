@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: eastsideddd
+  labels:
+    environment-id: env_09d3f728-cc1b-4a56-a3c2-f8dabde41736
+    project-id: project_c5f3c309-6477-4fce-a86d-6e8a3f37bc8a
+    project-name: logan
+    environment-name: prod
+    organization-id: org_e7c66bba-9ba1-48d7-bcc3-803475c3b4b6
