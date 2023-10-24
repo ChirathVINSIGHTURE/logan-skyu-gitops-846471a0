@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: ooioxvcxcvxv
+  labels:
+    environment-id: env_88fdbcdb-9448-42ec-8807-650c09064ee0
+    project-id: project_833e6b7a-fa9a-4f83-95d6-ea1bc0f522ea
+    project-name: xcvxcvxcvx
+    environment-name: staging
+    organization-id: org_f20c804c-ee37-4760-be90-0335c55d7f42
