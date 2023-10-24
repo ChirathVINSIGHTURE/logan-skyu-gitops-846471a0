@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: ioio
+  labels:
+    environment-id: env_c0b84dfc-e953-460c-98e9-32aa5e8c20c6
+    project-id: project_cdc8432a-042f-4e86-b102-3799e27ed945
+    project-name: asdfasdfdas
+    environment-name: dev
+    organization-id: org_f20c804c-ee37-4760-be90-0335c55d7f42
